@@ -4,9 +4,9 @@ public class Main {
         int numeroWhile = 0;
 
         while (numeroWhile <3) {
-
-            System.out.println(numeroWhile);
+            
             numeroWhile++;
+            System.out.println(numeroWhile);
 
         }
     }
